@@ -9,7 +9,7 @@
 
 - 🖥️ Coding Environment: Dark 🕶️ + Cartoon 🎬 + Milktea 🧋
 
-- 📫 How to reach me **huyenthuynh8@gmail.com**
+- 📫 How to reach me? <img width="30" alt="pointing finger" src="https://media.tenor.com/DloYoakaD_UAAAAi/backhand-index-pointing-right-joypixels.gif">  **huyenthuynh8@gmail.com**
 
 - 📄 Know about my experiences [https://huynhresume.tiiny.site](https://huynhresume.tiiny.site)
 
@@ -48,8 +48,29 @@
     <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></td>
 </tr>
 </table>
+                                    
+                                    ```
+                                    +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+                                    @@       o o                                           @@
+                                    @@       | |                                           @@
+                                    @@      _L_L_                                          @@
+                                    @@   ❮\/__-__\/❯ Programming isn't about what you know @@
+                                    @@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+                                    @@   ❮/ \`-'/ \❯                                       @@
+                                    @@     _/`  \_                                         @@
+                                    @@    (  |.|  )     .----------------------------.     @@
+                                    @@   / / |.| \ \    | while( ! (succeed=try() ) ) |    @@
+                                    @@   \ | |.|  | /    '----------------------------'    @@
+                                    @@    \|=====|/                                        @@
+                                    @@     | .^. |                                         @@
+                                    @@     | | | |                                         @@
+                                    @@     ( ) ( )   Testing leads to failure              @@
+                                    @@     |_| |_|   and failure leads to understanding    @@
+                                    @@ _.-' _j L_ '-._                                     @@
+                                    @@(___.'     '.___)                                    @@
+                                    +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+                                    ```
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huyenhuynhh&show_icons=true&locale=en&layout=compact" alt="huyenhuynhh" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=huyenhuynhh&" alt="huyenhuynhh" /></p>
-
