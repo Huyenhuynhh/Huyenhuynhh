@@ -1,6 +1,6 @@
-<img src="https://media2.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e47sax9wd7f6s7isw3mx3xr9397ls773v2ghm4makjy&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="370" height="200" alt="Giphy Image">
 <h1 align="center">Hi 👋, I'm Huyen Huynh</h1>
 <h3 align="center">VCU Computer Science grad 🎓 | Passionate Full Stack Developer 💻 | Fluent in multiple languages & frameworks | Crafting seamless experiences from front end to back end ✨</h3>
+<img align="right" width="400" alt="image" src="https://cdn.dribbble.com/users/1241550/screenshots/18301637/media/6f062219345707081809631a0cdda7c3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huyenhuynhh&label=Profile%20views&color=0e75b6&style=flat" alt="huyenhuynhh" /> </p>
 
