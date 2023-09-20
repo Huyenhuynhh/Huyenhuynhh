@@ -11,7 +11,7 @@
 
 - 📫 How to reach me? <img width="30" alt="pointing finger" src="https://media.tenor.com/DloYoakaD_UAAAAi/backhand-index-pointing-right-joypixels.gif">  **huyenthuynh8@gmail.com**
 
-- 📄 Know about my experiences [https://huynhresume.tiiny.site](https://huynhresume.tiiny.site)
+- 📄 Know about my experiences [https://huyenhuynhresume.tiiny.site/]
 
 - ⚡ Fun fact: If my coding skills were ever evaluated at Hogwarts, they'd sort me straight into Hufflepuff for my dedication and hard work. 🪄🦡
 
