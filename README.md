@@ -15,8 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="(https://www.linkedin.com/in/huyenthuynh8/)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/huyenthuynh8/)" alt="huyen huynh" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/huyenthuynh8/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Huyen Huynh" height="30" width="40" />
+</a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
