@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huyenhuynhh&label=Profile%20views&color=0e75b6&style=flat" alt="huyenhuynhh" /> </p>
 
-- 🔭 I’m currently working on an Ecommerce app [PeakPacker](https://github.com/Huyenhuynhh/PeakPacker)
+- 🔭 I'm currently collaborating with Dr. Leonard, an Associate Professor at VCU, on developing [an interactive dashboard](https://github.com/vcu-ssg/ssg-quarto-soc-analysis) 
 
 - 🖥️ Coding Environment: Dark 🕶️ + Cartoon 🎬 + Milktea 🧋
 
 - 📫 How to reach me? <img width="30" alt="pointing finger" src="https://media.tenor.com/DloYoakaD_UAAAAi/backhand-index-pointing-right-joypixels.gif">  **huyenthuynh8@gmail.com**
 
-- 📄 Know about my experiences [https://huyenhuynhresume.tiiny.site/](https://huyenhuynhresume.tiiny.site/)
+- 📄 Connect with me on Linked
 
 - ⚡ Fun fact: If my coding skills were ever evaluated at Hogwarts, they'd sort me straight into Hufflepuff for my dedication and hard work. 🪄🦡
 
