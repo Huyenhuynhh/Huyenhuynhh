@@ -11,8 +11,6 @@
 
 - 📫 How to reach me? <img width="30" alt="pointing finger" src="https://media.tenor.com/DloYoakaD_UAAAAi/backhand-index-pointing-right-joypixels.gif">  **huyenthuynh8@gmail.com**
 
-- 📄 Connect with me on Linked
-
 - ⚡ Fun fact: If my coding skills were ever evaluated at Hogwarts, they'd sort me straight into Hufflepuff for my dedication and hard work. 🪄🦡
 
 <h3 align="left">Connect with me:</h3>
