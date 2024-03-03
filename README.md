@@ -71,9 +71,9 @@
                                     +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
                                 
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huyenhuynhh&show_icons=true&locale=en&layout=compact" alt="huyenhuynhh" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huyenhuynhh&" alt="huyenhuynhh" />
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: row; width: 100%;">
+  <div style="margin: auto; display: flex; flex-direction: row; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huyenhuynhh&show_icons=true&locale=en&layout=compact" alt="huyenhuynhh" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=huyenhuynhh&" alt="huyenhuynhh" />
+  </div>
 </div>
-
-
