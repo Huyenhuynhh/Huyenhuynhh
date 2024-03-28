@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huyenhuynhh&label=Profile%20views&color=0e75b6&style=flat" alt="huyenhuynhh" /> </p>
 
-- 🔭 I'm currently collaborating with Dr. Leonard, an Associate Professor at VCU, on developing [an interactive dashboard](https://github.com/vcu-ssg/ssg-quarto-soc-analysis) 
+- 🔭 I'm currently working on developing [an interactive dashboard](https://github.com/vcu-ssg/ssg-quarto-soc-analysis) 
 
 - 🖥️ Coding Environment: Dark 🕶️ + Cartoon 🎬 + Milktea 🧋
 
